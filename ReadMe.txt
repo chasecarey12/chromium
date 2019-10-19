@@ -6,3 +6,5 @@ Files are encrypted for quality and safety.
 https://macpaw.com/encrypto
 
 Please use that tool or another to decrypt files!
+
+Passwords are 1234
